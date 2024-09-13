@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|c:\\users\\artem\\source\\repos\\wpfzoomanager\\wpfzoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|solutionrelative:wpfzoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|c:\\users\\artem\\source\\repos\\wpfzoomanager\\wpfzoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|solutionrelative:wpfzoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFZooManager\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml",
+              "RelativeToolTip": "WPFZooManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T14:41:36.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFZooManager\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFZooManager\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:41:35.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
