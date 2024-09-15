@@ -3,12 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artem\\AppData\\Local\\Temp\\gdduxbr4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/Artem_Laptop_ARTEMSQL/TestDB/sa/SqlTable/dbo.Animal.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/Artem_Laptop_ARTEMSQL/TestDB/sa/SqlTable/dbo.ZooAnimal.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|c:\\users\\artem\\source\\repos\\wpfzoomanager\\wpfzoomanager\\testdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|solutionrelative:wpfzoomanager\\testdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/Artem_Laptop_ARTEMSQL/TestDB/sa/SqlTable/dbo.Zoo.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|c:\\users\\artem\\source\\repos\\wpfzoomanager\\wpfzoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|solutionrelative:wpfzoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|c:\\users\\artem\\source\\repos\\wpfzoomanager\\wpfzoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|C:\\Users\\artem\\source\\repos\\WPFZooManager\\wpfzoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|solutionrelative:wpfzoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artem\\AppData\\Local\\Temp\\gdduxbr4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artem\\AppData\\Local\\Temp\\gdduxbr4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +49,72 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\artem\\AppData\\Local\\Temp\\gdduxbr4..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\gdduxbr4..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T22:35:56.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Zoo [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/Artem_Laptop_ARTEMSQL/TestDB/sa/SqlTable/dbo.Zoo.sql",
+              "ToolTip": "dbo.Zoo [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T22:28:58.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.ZooAnimal [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/Artem_Laptop_ARTEMSQL/TestDB/sa/SqlTable/dbo.ZooAnimal.sql",
+              "ToolTip": "dbo.ZooAnimal [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T22:28:36.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Animal [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/Artem_Laptop_ARTEMSQL/TestDB/sa/SqlTable/dbo.Animal.sql",
+              "ToolTip": "dbo.Animal [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T22:16:28.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestDBDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\TestDBDataSet.xsd",
+              "RelativeDocumentMoniker": "WPFZooManager\\TestDBDataSet.xsd",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\TestDBDataSet.xsd*",
+              "RelativeToolTip": "WPFZooManager\\TestDBDataSet.xsd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-09-15T22:07:38.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFZooManager\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFZooManager\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:41:35.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPFZooManager\\MainWindow.xaml",
@@ -34,19 +122,6 @@
               "RelativeToolTip": "WPFZooManager\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-13T14:41:36.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFZooManager\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WPFZooManager\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:41:35.875Z",
               "EditorCaption": ""
             }
           ]

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,13 @@ namespace WPFZooManager
         public MainWindow()
         {
             InitializeComponent();
+
+            string connectionString = ConfigurationManager
+                                      .ConnectionStrings["WPFZooManager.Properties.Settings.TestDbConnectionString"].ConnectionString;
+
+
+
+
         }
     }
 }
