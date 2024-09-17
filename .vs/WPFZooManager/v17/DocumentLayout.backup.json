@@ -3,15 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|c:\\users\\artem\\source\\repos\\wpfzoomanager\\wpfzoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|solutionrelative:wpfzoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|C:\\Users\\artem\\source\\repos\\WPFZooManager\\wpfzoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|solutionrelative:wpfzoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/Artem_Laptop_ARTEMSQL/TestDB/sa/SqlTable/dbo.Zoo.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|c:\\users\\artem\\source\\repos\\wpfzoomanager\\wpfzoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|solutionrelative:wpfzoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,30 +26,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.Zoo [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/Artem_Laptop_ARTEMSQL/TestDB/sa/SqlTable/dbo.Zoo.sql",
-              "ToolTip": "dbo.Zoo [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-17T15:18:04.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFZooManager\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml.cs",
               "RelativeToolTip": "WPFZooManager\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAqwCUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAowMMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T14:41:35.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPFZooManager\\MainWindow.xaml",
