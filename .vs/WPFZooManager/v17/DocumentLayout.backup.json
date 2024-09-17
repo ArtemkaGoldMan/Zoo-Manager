@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|C:\\Users\\artem\\source\\repos\\WPFZooManager\\wpfzoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|c:\\users\\artem\\source\\repos\\wpfzoomanager\\wpfzoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|solutionrelative:wpfzoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|c:\\users\\artem\\source\\repos\\wpfzoomanager\\wpfzoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|C:\\Users\\artem\\source\\repos\\WPFZooManager\\wpfzoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CF984C17-D47B-4D4E-B268-359BEFE65032}|WPFZooManager\\WPFZooManager.csproj|solutionrelative:wpfzoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "WPFZooManager\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\artem\\source\\repos\\WPFZooManager\\WPFZooManager\\MainWindow.xaml.cs",
               "RelativeToolTip": "WPFZooManager\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAowMMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAANsAAAAAAAAAAAAUwOYAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T14:41:35.875Z",
               "EditorCaption": ""

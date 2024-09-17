@@ -122,6 +122,12 @@ namespace WPFZooManager
         private void listZoos_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             ShowAssociatedAnimals();
+            ShowSelectedZooInTextBox();
+        }
+
+        private void listAnimal_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ShowSelectedAnimalInTextBox();
         }
 
         private void DeleteZoo_Clicked(object sender, RoutedEventArgs e)
@@ -150,7 +156,24 @@ namespace WPFZooManager
 
         private void UpdateZoo_Clicked(object sender, RoutedEventArgs e)
         {
-            ShowZoos();
+            try
+            {
+                string query = "update Zoo Set Location = @Location where Id = @ZooId";
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                sqlCommand.Parameters.AddWithValue("@Location", textBoxIk.Text);
+                sqlCommand.Parameters.AddWithValue("ZooId", listZoos.SelectedValue);
+                sqlCommand.ExecuteScalar();
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            finally
+            {
+                sqlConnection.Close();
+                ShowZoos();
+            }
         }
 
         private void AddZoo_Clicked(object sender, RoutedEventArgs e)
@@ -199,7 +222,24 @@ namespace WPFZooManager
 
         private void UpdateAnimal_Clicked(object sender, RoutedEventArgs e)
         {
-            ShowAnimals();
+            try
+            {
+                string query = "update Animal Set Name = @Name where Id = @AnimalId";
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                sqlCommand.Parameters.AddWithValue("@Name", textBoxIk.Text);
+                sqlCommand.Parameters.AddWithValue("AnimalId", listAnimals.SelectedValue);
+                sqlCommand.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            finally
+            {
+                sqlConnection.Close();
+                ShowAnimals();
+            }
         }
 
         private void DeleteAnimal_Clicked(object sender, RoutedEventArgs e)
@@ -222,6 +262,60 @@ namespace WPFZooManager
             {
                 sqlConnection.Close();
                 ShowAnimals();
+            }
+        }
+
+        private void ShowSelectedZooInTextBox()
+        {
+            try
+            {
+                string query = "select Location from Zoo where Id = @ZooId";
+
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+
+                using (sqlDataAdapter)
+                {
+                    sqlCommand.Parameters.AddWithValue("@ZooId", listZoos.SelectedValue);
+
+                    DataTable zooDataTable = new DataTable();
+
+                    sqlDataAdapter.Fill(zooDataTable);
+
+                    textBoxIk.Text = zooDataTable.Rows[0]["Location"].ToString();
+                }
+            }
+            catch (Exception ex)
+            {
+                //MessageBox.Show(ex.ToString());
+            }
+        }
+
+        private void ShowSelectedAnimalInTextBox()
+        {
+            try
+            {
+                string query = "select Name from Animal where Id = @AnimalId";
+
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+
+                using (sqlDataAdapter)
+                {
+                    sqlCommand.Parameters.AddWithValue("@AnimalId", listAnimals.SelectedValue);
+
+                    DataTable animalDataTable = new DataTable();
+
+                    sqlDataAdapter.Fill(animalDataTable);
+
+                    textBoxIk.Text = animalDataTable.Rows[0]["Name"].ToString();
+                }
+            }
+            catch (Exception ex)
+            {
+                //MessageBox.Show(ex.ToString());
             }
         }
 
